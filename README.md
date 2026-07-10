@@ -33,9 +33,9 @@ Antes de conectar el frontend, la API REST fue probada y validada utilizando **P
 
 ## Demostración Visual
 
-
+![Demostración del CRUD](src/demo-crud.gif.gif)
 
 ---
 
 ## Frontend Relacionado
-Puedes encontrar el repositorio del cliente de React diseñado para consumir esta API aquí: [Enlace al Repositorio Frontend]
+Puedes encontrar el repositorio del cliente de React diseñado para consumir esta API aquí: [ \[Enlace al Repositorio Frontend\]](https://github.com/MisaelCruz/gestion-clientes-frontend)
